@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"entregaEntornos","l":"RestauranteIsrael"}];updateSearchResults();
